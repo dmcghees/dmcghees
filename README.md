@@ -2,7 +2,7 @@
 
 I'm a Workplace Operations and Technical Support professional with experience supporting office environments, users, vendors, workplace systems, and day to day operations.
 
-I have an Associate of Science in Computer Networking and Information Technology, and I am using this GitHub portfolio to demonstrate my technical troubleshooting, documentation, systems, and process improvement skills.
+I studied Computer Networking and Information Technology at City College of San Francisco, and I am using this GitHub portfolio to demonstrate my technical troubleshooting, documentation, systems, and process improvement skills.
 
 ## Areas of Focus
 
