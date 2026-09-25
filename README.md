@@ -1,25 +1,27 @@
 # Hi, I'm DiMarco 👋
 
-I'm a Workplace Operations professional with experience supporting offices, employees, vendors, facilities, workplace systems, projects, and day to day business operations.
+I'm an operations professional with experience across workplace operations, business administration, executive support, technical support, customer service, facilities, vendor management, project coordination, and process improvement.
 
-I also have a background in Computer Networking and Information Technology, which complements my experience supporting workplace technology and troubleshooting operational issues.
+I have supported employees, executives, customers, vendors, and cross functional teams while managing the systems, processes, documentation, and day to day coordination that keep organizations running.
 
-This GitHub portfolio shows how I approach workplace operations, process improvement, documentation, technical support, and building systems that make work easier to manage.
+I studied Computer Networking and Information Technology at City College of San Francisco, which helped strengthen my technical foundation and complements my experience with troubleshooting, systems, and workplace technology.
+
+This GitHub portfolio is a growing collection of practical projects that show how I approach operations, technology, problem solving, documentation, and process improvement.
 
 ## Areas of Focus
 
+* Business Operations
 * Workplace Operations
-* Office Management
-* Employee Experience
-* Facilities Coordination
-* Vendor Management
-* Standard Operating Procedures
-* Onboarding and Offboarding
-* Office Moves and Workplace Projects
-* Event Operations
-* Budget and Inventory Management
+* Project Coordination
 * Process Improvement
 * Technical Support
+* Systems and Documentation
+* Vendor and Facilities Management
+* Executive and Administrative Support
+* Employee Experience
+* Customer Support
+* Standard Operating Procedures
+* Operational Reporting
 
 ## Featured Project
 
