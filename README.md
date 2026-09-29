@@ -6,7 +6,7 @@ I have supported employees, executives, customers, vendors, and cross functional
 
 I studied Computer Networking and Information Technology at City College of San Francisco, which helped strengthen my technical foundation and complements my experience with troubleshooting, systems, and workplace technology.
 
-This GitHub portfolio is a growing collection of practical projects that show how I approach operations, technology, problem solving, documentation, and process improvement.
+This GitHub portfolio is a growing collection of practical projects that show how I approach operations, technology, people processes, problem solving, documentation, and process improvement.
 
 ## Areas of Focus
 
@@ -46,7 +46,15 @@ The project covers:
 
 The repository also includes a reusable operations toolkit with onboarding checklists, facilities trackers, vendor logs, budget trackers, inventory tools, event planning templates, project trackers, dashboards, and monthly reporting tools.
 
-## Additional Project
+## Additional Projects
+
+### 👥 [Recruiting Operations Playbook](https://github.com/dmcghees/recruiting-operations-playbook)
+
+A practical recruiting operations portfolio focused on the systems and coordination behind an organized hiring process.
+
+The project includes guides and reusable tools for recruiting intake, interview scheduling, candidate experience, pipeline management, hiring manager coordination, offer tracking, recruiting metrics, operational dashboards, and recruiting to onboarding handoffs.
+
+It also includes a case study demonstrating how interview coordination and candidate experience can be improved through stronger workflow design, communication, ownership, and operational tracking.
 
 ### 💻 [IT Troubleshooting Playbook](https://github.com/dmcghees/it-troubleshooting-playbook)
 
